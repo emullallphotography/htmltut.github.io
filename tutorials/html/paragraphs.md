@@ -3,7 +3,7 @@
 ## What are paragraphs used for?
 Paragraphs are blocks of text used to output something on your website
 Paragraphs are commonly used to present information in a structured and readable way. Paragraphs are great long passages.
-<br/>This is what a paragraph looks lik
+<br/>This is what a paragraph looks like
 ## How to write them?
 ```html
 <html>
