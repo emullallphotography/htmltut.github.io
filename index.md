@@ -1,6 +1,9 @@
 ## Web Development
 ### Creating and styling websites 
 #### HTML Tutorials
+##### What Is HTML?
+* Description: in this tutorial, you will learn what HTML is
+* Link: [What Is HTML?](tutorials/html/tutorial1)
 ##### Paragraphs
 * Description: in this tutorial, you will learn what paragraphs are and how to create them
 * Link: [Paragraphs](tutorials/html/paragraphs)
@@ -27,4 +30,5 @@
 #### Github
 ##### What is Github? 
 * Description: in this tutorial, you will learn about Github
-* Link: [What is Github?](tutorials/github/tutorial1)
+* Link: [What is Github?](tutorials/github/tutorial1)<br/>
+<footer>This project is open source. <a href="https://github.com/linknprk/">Feel free toedit the cod</a></footer>
