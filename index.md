@@ -1,4 +1,4 @@
-# Web Development
+## Web Development
 ### Creating and styling websites 
 #### HTML Tutorials
 ##### Paragraphs
@@ -19,3 +19,12 @@
 ##### Spacing 
 * Description: in this tutorial, you will learn how to space content
 * Link: [Spacing Content](tutoral/html/br)
+### Adding function and publishing your website
+#### Javacript
+##### What is JavaScript?
+* Description: in this tutorial you will learn what JavaScript is
+* Link [What Is JavaScript?](tutorials/js/tutorial1)
+#### Github
+##### What is Github? 
+* Description: in this tutorial, you will learn about Github
+* Link: [What is Github?](tutorials/github/tutorial1)
