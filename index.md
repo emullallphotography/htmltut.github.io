@@ -31,4 +31,3 @@
 ##### What is Github? 
 * Description: in this tutorial, you will learn about Github
 * Link: [What is Github?](tutorials/github/tutorial1)<br/>
-<footer>This project is open source. <a href="https://github.com/linknprk/">Feel free toedit the cod</a></footer>
