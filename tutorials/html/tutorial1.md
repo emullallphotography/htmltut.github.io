@@ -11,4 +11,4 @@ HTML plays a cruical role in web development. It allows you to define the strutu
 Today 92.5%(as of 2023) of the websites use HTML to define the structure and orginization of the website
 HTML allows users to click links and buttons and allows you to create headers, paragraphs, links, horizontal lines etc
 
-[Home Page](./index) | [Next Tutorial](tutorial2)
+[Home Page](./index) | [Next Tutorial](paragraphs)
