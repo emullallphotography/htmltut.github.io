@@ -12,4 +12,4 @@ Paragraphs are commonly used to present information in a structured and readable
   </body>
 </html>
 ```
-[Previous Tutorial](tutoria1) | [Next Tutorial](headers)
+[Previous Tutorial](tutorial1) | [Next Tutorial](headers)
