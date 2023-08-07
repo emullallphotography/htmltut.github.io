@@ -32,3 +32,4 @@
 * Description: in this tutorial, you will learn about Github
 * Link: [What is Github?](tutorials/github/tutorial1)<br/>
 <br/> [About](about)
+<script src="js/404.js"></script>
